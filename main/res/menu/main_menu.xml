@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="botao1" android:id="@+id/btn1" app:showAsAction="ifRoom"/>
+    <item android:title="botao2" android:id="@+id/btn2" app:showAsAction="ifRoom"/>
+    <item android:title="botao3" android:id="@+id/btn3" app:showAsAction="ifRoom"/>
+    <item android:title="botao4" android:id="@+id/btn4" app:showAsAction="ifRoom"/>
+    <item android:title="botao5" android:id="@+id/btn5" app:showAsAction="ifRoom"/>
+
+</menu>
